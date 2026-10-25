@@ -1,8 +1,8 @@
 # Supervised Machine Learning Lab Journal
 
-**Author:** Harshit Jaiswal (Roll No. A049)  
-**Course instructor:** Pratik A. Desai Sir  
-**Deliverable:** `A049_Harshit_Jaiswal_sml_lab_journal.ipynb`
+**Author:** Harshit Jaiswal  
+**Course Professor:** Pratik A. Desai Sir  
+**Deliverable:** `Harshit_Jaiswal_sml_lab_journal.ipynb`
 
 A single Jupyter notebook that consolidates all ten laboratory practicals taught in Semester 1 into one sequential, reproducible journal. Every code cell is preceded by a short explanation (what it does, why it is used, how it works), and every lab ends with a small experiment of the author's own design.
 
@@ -409,4 +409,4 @@ I sincerely thank **Prof. Pratik A. Desai** for teaching all of the laboratories
 
 I also acknowledge the open-source communities behind scikit-learn, TensorFlow and Keras, NumPy, pandas, Matplotlib and Graphviz, and the creators of the public datasets used throughout this work.
 
-*Harshit Jaiswal, Roll No. A049*
+*Harshit Jaiswal*
