@@ -1,7 +1,10 @@
-# Supervised Machine Learning Lab Journal
+# Supervised Machine Learning Lab/Practical Journal for Semester 1 | NMIMS Mumbai
 
-**Author:** Harshit Jaiswal  
+**Name:** Harshit Jaiswal  
+**Programme:** M.Sc. Data Science  
+**Semester:** 1    
 **Course Professor:** Pratik A. Desai Sir  
+
 **Deliverable:** `Harshit_Jaiswal_sml_lab_journal.ipynb`
 
 A single Jupyter notebook that consolidates all ten laboratory practicals taught in Semester 1 into one sequential, reproducible journal. Every code cell is preceded by a short explanation (what it does, why it is used, how it works), and every lab ends with a small experiment of the author's own design.
